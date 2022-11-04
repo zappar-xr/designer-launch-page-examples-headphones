@@ -1,6 +1,6 @@
 # Jute launch page examples
 
-This repository contains an AR example with a customizable launch page.
+This repository contains an AR example with a custom launch page, built with [ZapWorks Designer](https://zap.works/designer/).
 
 ## Preview
 
@@ -8,12 +8,11 @@ Try this example yourself [here](https://zappar-xr.github.io/designer-launch-pag
 
 ![Preview QR Code"](preview-qr-code.png)
 
-## Getting Started
+## Create your own
 
-1. `content.json` contains all the experiences that you've build. Do not touch it.
-2. Open `index.html` to personalise your landing splash page.
-3. Modify `styles.css` or add your own style sheet and link it in the `index.html`.
-4. Put your asset files in the `assets` folder.
+[Our documentation site](https://docs.zap.works/designer/getting-started/) contains a number of detailed articles showcasing how to download your Designer project files and how to edit or create your own launch page.
+
+Please note:the `content.json` file contains your AR content built in Designer. We don’t recommend editing this file unless it’s necessary to do so as small tweaks can cause errors at runtime. 
 
 ## Other examples
 
