@@ -1,1 +1,127 @@
-{"version": 8, "rootComponentId": "d2_root_v1", "componentsById": {"d2_root_v1": {"type": "Root", "children": ["334e1b20-971d-4cc9-889a-bb2a30e4a9e3"]}, "334e1b20-971d-4cc9-889a-bb2a30e4a9e3": {"type": "Scene", "title": "Scene 1", "trackingType": "world", "children": ["0515f28f-6067-410b-bf06-b1553d4e5025", "ecb55e89-5def-4abe-9067-9d58c7ac978b"]}, "0515f28f-6067-410b-bf06-b1553d4e5025": {"type": "ScreenContent", "children": ["a62316f0-6787-4f9a-9174-4f5765f5c0d7", "1d155f33-e0d2-45b2-89c1-7eb7626acd82", "ccf3f0b7-cc59-423a-8b85-a4d289bdca97", "4ae736ec-3a22-4573-8ccb-9e680f32a09e", "ae21b413-345e-4b47-a1ac-bcff4749de2c", "868b7973-4b00-4816-935c-52032fc43808", "7e1270a7-98b7-49fe-91b6-6e2b547491bc", "3e1efc34-be7c-4752-bae8-f47d3cac3eb6", "5bbef36c-2ed4-4bde-ada7-7b511c214152"]}, "a62316f0-6787-4f9a-9174-4f5765f5c0d7": {"type": "ScreenAnchorGroup", "name": "leftTop", "anchorPositionType": "leftTop", "children": []}, "1d155f33-e0d2-45b2-89c1-7eb7626acd82": {"type": "ScreenAnchorGroup", "name": "topMiddle", "anchorPositionType": "topMiddle", "children": []}, "ccf3f0b7-cc59-423a-8b85-a4d289bdca97": {"type": "ScreenAnchorGroup", "name": "rightTop", "anchorPositionType": "rightTop", "children": []}, "4ae736ec-3a22-4573-8ccb-9e680f32a09e": {"type": "ScreenAnchorGroup", "name": "rightMiddle", "anchorPositionType": "rightMiddle", "children": []}, "ae21b413-345e-4b47-a1ac-bcff4749de2c": {"type": "ScreenAnchorGroup", "name": "rightBottom", "anchorPositionType": "rightBottom", "children": []}, "868b7973-4b00-4816-935c-52032fc43808": {"type": "ScreenAnchorGroup", "name": "bottomMiddle", "anchorPositionType": "bottomMiddle", "children": []}, "7e1270a7-98b7-49fe-91b6-6e2b547491bc": {"type": "ScreenAnchorGroup", "name": "leftBottom", "anchorPositionType": "leftBottom", "children": []}, "3e1efc34-be7c-4752-bae8-f47d3cac3eb6": {"type": "ScreenAnchorGroup", "name": "leftMiddle", "anchorPositionType": "leftMiddle", "children": []}, "5bbef36c-2ed4-4bde-ada7-7b511c214152": {"type": "ScreenAnchorGroup", "name": "center", "anchorPositionType": "center", "children": []}, "ecb55e89-5def-4abe-9067-9d58c7ac978b": {"type": "Model3d", "id": "ecb55e89-5def-4abe-9067-9d58c7ac978b", "scale": [0.6449652351607245, 1.5729567809629215, 1.486060373392142], "position": [0, 1.5582815970014998, 0], "dimensions": [8.204738140106201, 20.00991338748526, 18.90448594649068], "renderOrder": 1, "rotation": [0, 0, 0], "title": "model (3).glb", "aspectRatioLocked": true, "isLocked": false, "isHidden": false, "scalesInverted": [false, false], "model3dUrl": "./3d-model/dev2-88fde2c201cc434784685864c2c470d4/model.glb", "thumbnailUrl": "./3d-model/dev2-88fde2c201cc434784685864c2c470d4/frame0.png", "zmlFileId": "b5cf9cea-ad3c-4c9a-8ca2-762c651b8fbd", "isAnimated": false}}, "juteVersion": "16.4"}
+{
+  "version": 8,
+  "rootComponentId": "d2_root_v1",
+  "componentsById": {
+    "d2_root_v1": {
+      "type": "Root",
+      "children": [
+        "334e1b20-971d-4cc9-889a-bb2a30e4a9e3"
+      ]
+    },
+    "334e1b20-971d-4cc9-889a-bb2a30e4a9e3": {
+      "type": "Scene",
+      "title": "Scene 1",
+      "trackingType": "world",
+      "children": [
+        "0515f28f-6067-410b-bf06-b1553d4e5025",
+        "ecb55e89-5def-4abe-9067-9d58c7ac978b"
+      ]
+    },
+    "0515f28f-6067-410b-bf06-b1553d4e5025": {
+      "type": "ScreenContent",
+      "children": [
+        "a62316f0-6787-4f9a-9174-4f5765f5c0d7",
+        "1d155f33-e0d2-45b2-89c1-7eb7626acd82",
+        "ccf3f0b7-cc59-423a-8b85-a4d289bdca97",
+        "4ae736ec-3a22-4573-8ccb-9e680f32a09e",
+        "ae21b413-345e-4b47-a1ac-bcff4749de2c",
+        "868b7973-4b00-4816-935c-52032fc43808",
+        "7e1270a7-98b7-49fe-91b6-6e2b547491bc",
+        "3e1efc34-be7c-4752-bae8-f47d3cac3eb6",
+        "5bbef36c-2ed4-4bde-ada7-7b511c214152"
+      ]
+    },
+    "a62316f0-6787-4f9a-9174-4f5765f5c0d7": {
+      "type": "ScreenAnchorGroup",
+      "name": "leftTop",
+      "anchorPositionType": "leftTop",
+      "children": []
+    },
+    "1d155f33-e0d2-45b2-89c1-7eb7626acd82": {
+      "type": "ScreenAnchorGroup",
+      "name": "topMiddle",
+      "anchorPositionType": "topMiddle",
+      "children": []
+    },
+    "ccf3f0b7-cc59-423a-8b85-a4d289bdca97": {
+      "type": "ScreenAnchorGroup",
+      "name": "rightTop",
+      "anchorPositionType": "rightTop",
+      "children": []
+    },
+    "4ae736ec-3a22-4573-8ccb-9e680f32a09e": {
+      "type": "ScreenAnchorGroup",
+      "name": "rightMiddle",
+      "anchorPositionType": "rightMiddle",
+      "children": []
+    },
+    "ae21b413-345e-4b47-a1ac-bcff4749de2c": {
+      "type": "ScreenAnchorGroup",
+      "name": "rightBottom",
+      "anchorPositionType": "rightBottom",
+      "children": []
+    },
+    "868b7973-4b00-4816-935c-52032fc43808": {
+      "type": "ScreenAnchorGroup",
+      "name": "bottomMiddle",
+      "anchorPositionType": "bottomMiddle",
+      "children": []
+    },
+    "7e1270a7-98b7-49fe-91b6-6e2b547491bc": {
+      "type": "ScreenAnchorGroup",
+      "name": "leftBottom",
+      "anchorPositionType": "leftBottom",
+      "children": []
+    },
+    "3e1efc34-be7c-4752-bae8-f47d3cac3eb6": {
+      "type": "ScreenAnchorGroup",
+      "name": "leftMiddle",
+      "anchorPositionType": "leftMiddle",
+      "children": []
+    },
+    "5bbef36c-2ed4-4bde-ada7-7b511c214152": {
+      "type": "ScreenAnchorGroup",
+      "name": "center",
+      "anchorPositionType": "center",
+      "children": []
+    },
+    "ecb55e89-5def-4abe-9067-9d58c7ac978b": {
+      "type": "Model3d",
+      "id": "ecb55e89-5def-4abe-9067-9d58c7ac978b",
+      "scale": [
+        0.6449652351607245,
+        1.5729567809629215,
+        1.486060373392142
+      ],
+      "position": [
+        0,
+        1.5582815970014998,
+        0
+      ],
+      "dimensions": [
+        8.204738140106201,
+        20.00991338748526,
+        18.90448594649068
+      ],
+      "renderOrder": 1,
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "title": "model (3).glb",
+      "aspectRatioLocked": true,
+      "isLocked": false,
+      "isHidden": false,
+      "scalesInverted": [
+        false,
+        false
+      ],
+      "model3dUrl": "./3d-model/88fde2c201cc434784685864c2c470d4/model.glb",
+      "thumbnailUrl": "./3d-model/88fde2c201cc434784685864c2c470d4/frame0.png",
+      "zmlFileId": "b5cf9cea-ad3c-4c9a-8ca2-762c651b8fbd",
+      "isAnimated": false
+    }
+  },
+  "juteVersion": "16.4"
+}
